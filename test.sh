@@ -1,0 +1,3 @@
+for (( i = 0; i < 50000; i++ )); do
+	curl 'http://yuweilong.sinaapp.com/MyForm.jsp?action=MyForm&title=%22C5(%E7%9A%84%E5%A4%A7%E5%A6%88)%E6%98%AF%E6%88%91%E7%9A%84!!!!%22&content=%22%E6%88%91%E6%98%AFlaoyinlong,%E6%88%91%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%A2%8B%E7%9B%90--\nlyl' -H 'Host: yuweilong.sinaapp.com' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.8,zh;q=0.5,zh-CN;q=0.3' -H 'Accept-Encoding: gzip, deflate' -H 'DNT: 1' -H 'Cookie: saevisited=58.217.103.20.14473976596971223; JSESSIONID=i6do4mrrpgcoaa23j4ig14p8' -H 'Connection: keep-alive'
+done
